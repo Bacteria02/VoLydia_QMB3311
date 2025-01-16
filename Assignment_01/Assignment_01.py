@@ -33,7 +33,8 @@ except ValueError:
         print("Invalid input. Please enter a number between 1 and 9.")
 
 
-
+# Since you added the input function, you should have also considered adding
+# inputs for parts e and f so that the function can work any time, any year. 
 
 
 
